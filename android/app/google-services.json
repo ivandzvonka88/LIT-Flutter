@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "471138549063",
+    "firebase_url": "https://litt-a9ee1.firebaseio.com",
+    "project_id": "litt-a9ee1",
+    "storage_bucket": "litt-a9ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471138549063:android:34215944bd7673eddda062",
+        "android_client_info": {
+          "package_name": "com.lit.lit_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471138549063-tqcpkgs9ncrch9sajqcn5pvcua1nvk54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lit.lit_beta",
+            "certificate_hash": "a017a4c75c28e92a7df22bbadf42a3ea0be83578"
+          }
+        },
+        {
+          "client_id": "471138549063-3tqvda8f086kurm83uqmumcv4eilkdlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhYfpu3KMpvJg08lofgxch4AbuQMdNCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471138549063-3tqvda8f086kurm83uqmumcv4eilkdlt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471138549063-4k9qu83kbgoah4l123eromlbna25tu8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lit.litSocial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471138549063:android:b1ab4b62ac6d9987dda062",
+        "android_client_info": {
+          "package_name": "com.lit.lit_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471138549063-akqbmv72bkiilnlu5dv78m76p9vqb6fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lit.lit_social",
+            "certificate_hash": "9cffab567f0e377798a55f3d665765a5dea8ac43"
+          }
+        },
+        {
+          "client_id": "471138549063-3tqvda8f086kurm83uqmumcv4eilkdlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhYfpu3KMpvJg08lofgxch4AbuQMdNCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471138549063-3tqvda8f086kurm83uqmumcv4eilkdlt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471138549063-4k9qu83kbgoah4l123eromlbna25tu8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lit.litSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
